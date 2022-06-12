@@ -1,5 +1,0 @@
-export const TYPE_PICKER = {
-    STUDENT: 'STUDENT',
-    REGULATION: 'REGULATION',
-    CRITERIA: 'CRITERIA'
-}

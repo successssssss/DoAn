@@ -1,0 +1,238 @@
+Removed Pin From Net: NetName=DHT11 Pin=IC1-21
+Removed Pin From Net: NetName=DAT Pin=IC1-30
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP 13x25x5"; UniqueID = "\GXRXAWLH" ("\GXRXAWLH")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF/35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP_NP_100"; UniqueID = "\YRPJETQS" ("\YRPJETQS")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "510470"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "T? Ceramic 104 (Túi 10c)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP_NP_100"; UniqueID = "\TSZVDFXK" ("\TSZVDFXK")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "510470"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "T? Ceramic 104 (Túi 10c)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP 13x25x5"; UniqueID = "\WZFPMJFR" ("\WZFPMJFR")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF/35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DO35-GLASS-300MIL"; UniqueID = "\LWCAAMGK" ("\LWCAAMGK")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "260140"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "1N4148 0.3A100V DIP(DO-35)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1N4148 DO-35"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED-3mm"; UniqueID = "\JDUKMFFP" ("\JDUKMFFP")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "140160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "LED 3mm Ð? (Có màu)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LED-RED 3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DO35-GLASS-300MIL"; UniqueID = "\UUPWDVEN" ("\UUPWDVEN")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "260140"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "1N4148 0.3A100V DIP(DO-35)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1N4148 DO-35"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED-3mm"; UniqueID = "\KFFQCCCI" ("\KFFQCCCI")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "140160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "LED 3mm Ð? (Có màu)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LED-RED 3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "DO35-GLASS-300MIL"; UniqueID = "\TNICSIPQ" ("\TNICSIPQ")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "260140"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "1N4148 0.3A100V DIP(DO-35)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1N4148 DO-35"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "LED-3mm"; UniqueID = "\RSRUXGZK" ("\RSRUXGZK")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "140160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "LED 3mm Ð? (Có màu)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LED-RED 3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "DO35-GLASS-300MIL"; UniqueID = "\KBCVUKJR" ("\KBCVUKJR")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "260140"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "1N4148 0.3A100V DIP(DO-35)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1N4148 DO-35"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "LED-3mm"; UniqueID = "\KNZDLOFE" ("\KNZDLOFE")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "140160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "LED 3mm Ð? (Có màu)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LED-RED 3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "LED-3mm"; UniqueID = "\KAUPPNQC" ("\KAUPPNQC")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "140160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "LED 3mm Ð? (Có màu)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LED-RED 3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD1" ("HD1"); Footprint = "HED3"; UniqueID = "\CXVLSPJG" ("\CXVLSPJG")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD2" ("HD2"); Footprint = "HED3"; UniqueID = "\KGHRBWQT" ("\KGHRBWQT")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD3" ("HD3"); Footprint = "HED3"; UniqueID = "\XNUNMDYM" ("\XNUNMDYM")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD4" ("HD4"); Footprint = "HED3"; UniqueID = "\EHDITJDH" ("\EHDITJDH")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "ESP8266 NodeMCU"; UniqueID = "\CTUJNSYC" ("\CTUJNSYC")
+Change component parameters (AddParameter): Name = "WEB"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "HED2"; UniqueID = "\RBOQKAOX" ("\RBOQKAOX")
+Change component parameters (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2" ("JP2"); Footprint = "CON4"; UniqueID = "\IJSITNTA" ("\IJSITNTA")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "XH2.54-3A"; UniqueID = "\DNSRYZPJ" ("\DNSRYZPJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "linhkienviet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://linhkienviet.vn/xh2-54-3a-duc-3-chan-thang"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "201170"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "XH2.54-3A Ð?c 3 chân th?ng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "XH2.54-3A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2" ("P2"); Footprint = "JACK DC 5.5x2"; UniqueID = "\HULLEYUQ" ("\HULLEYUQ")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "200140"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Chân ngu?n DC cái 5.5x2.1mm (DC005)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TO-92"; UniqueID = "\PLGRYXSB" ("\PLGRYXSB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "linhkienviet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://linhkienviet.vn/c1815-to-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "490220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "C1815 TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815 TO-92"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "TO-92"; UniqueID = "\QLMZSDPA" ("\QLMZSDPA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "linhkienviet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://linhkienviet.vn/c1815-to-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "490220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "C1815 TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815 TO-92"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "TO-92"; UniqueID = "\QJONXVPY" ("\QJONXVPY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "linhkienviet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://linhkienviet.vn/c1815-to-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "490220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "C1815 TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815 TO-92"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "TO-92"; UniqueID = "\TLBLVXVU" ("\TLBLVXVU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "linhkienviet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://linhkienviet.vn/c1815-to-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "490220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "C1815 TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815 TO-92"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R-300mil"; UniqueID = "\UEKSEJXC" ("\UEKSEJXC")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R-300mil"; UniqueID = "\DMZPJWHY" ("\DMZPJWHY")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R-300mil"; UniqueID = "\GKKJBVKY" ("\GKKJBVKY")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R-300mil"; UniqueID = "\PEKHKVRF" ("\PEKHKVRF")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R-300mil"; UniqueID = "\CBHSIYVM" ("\CBHSIYVM")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R-300mil"; UniqueID = "\EGASVORP" ("\EGASVORP")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R-300mil"; UniqueID = "\COMUCWGW" ("\COMUCWGW")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R-300mil"; UniqueID = "\RYIWVQZP" ("\RYIWVQZP")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R-300mil"; UniqueID = "\GOBNAIQO" ("\GOBNAIQO")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Processing Cost"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "255700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "Resistor 1/4W 5% 1K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K 1/4W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TO 220+TN"; UniqueID = "\KBYZPAJY" ("\KBYZPAJY")
+Change component parameters (AddParameter): Name = "Mounting_Type"; Value = "Through_Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_CODE"; Value = "320700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SAPO_NAME"; Value = "L7805CV 5V 1.5A TO220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DAT Pin=IC1-1
+Added Pin To Net: NetName=DHT11 Pin=IC1-28
+Added Pin To Net: NetName=RL1 Pin=IC1-23
+Added Pin To Net: NetName=RL1 Pin=R2-1
+Added Net: Name=RL1
+Added Pin To Net: NetName=RL2 Pin=IC1-22
+Added Pin To Net: NetName=RL2 Pin=R4-1
+Added Net: Name=RL2
+Added Pin To Net: NetName=RL3 Pin=IC1-21
+Added Pin To Net: NetName=RL3 Pin=R6-1
+Added Net: Name=RL3
+Added Pin To Net: NetName=RL4 Pin=IC1-20
+Added Pin To Net: NetName=RL4 Pin=R9-1
+Added Net: Name=RL4
